@@ -1,4 +1,3 @@
 # os-lesbicos
 
-https://prod.liveshare.vsengsaas.visualstudio.com/join?571AD9D97D716952F653184CF498D572D8B9
-
+https://prod.liveshare.vsengsaas.visualstudio.com/join?C1F17491ED39D315792516FB156385CDFA63
